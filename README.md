@@ -26,5 +26,8 @@ https://github.com/eifelnex/escooter-tracker
 
 This repository contains only my contribution and supporting materials.
 
+Here is the project report:
+
 <iframe src="https://raw.githubusercontent.com/krupainc/escooters/main/Escooter-Project-Final.pdf" width="100%" height="800px">
 </iframe>
+
